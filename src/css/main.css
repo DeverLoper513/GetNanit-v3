@@ -120,6 +120,10 @@ body {
   margin: 0 0 0 9px;
 }
 
+a{
+	text-decoration: none !important;
+}
+
 .cliboard-holder {
   display: flex;
   flex-flow: row wrap;
